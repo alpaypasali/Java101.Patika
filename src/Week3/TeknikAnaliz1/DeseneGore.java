@@ -11,7 +11,7 @@ public class DeseneGore {
         recursiveIslemArti(islemDegeri, kullaniciGirdisi);
     }
 
-    // Subtract until 0 or minus int and printing result
+
     public static int recursiveIslemEksi(int islemDegeri){
         if(islemDegeri <=0) return islemDegeri;
         System.out.print(islemDegeri +" ");
