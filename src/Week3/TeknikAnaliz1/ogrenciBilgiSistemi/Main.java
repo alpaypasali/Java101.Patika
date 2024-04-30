@@ -27,7 +27,7 @@ public class Main {
 
         Student s3 = new Student("Hayta İsmail", 4, "221121312", mat, fizik, kimya);
         s3.addBulkExamNote(50,20,40);
-        s3.addBulkVerbalNote(50, 50, 50);
+        s3.addBulkVerbalNote(50, 51, 52);
         s3.isPass();
 
     }
