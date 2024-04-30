@@ -1,4 +1,4 @@
-package Week3.TeknikAnaliz1.ogrenciBilgiSistemi;
+package Week3.TeknikAnaliz2.ogrenciBilgiSistemi;
 
 public class Student {
     String name,stuNo;

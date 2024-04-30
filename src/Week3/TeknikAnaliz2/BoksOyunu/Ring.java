@@ -1,4 +1,4 @@
-package Week3.TeknikAnaliz1.BoksOyunu;
+package Week3.TeknikAnaliz2.BoksOyunu;
 
 public class Ring {
     Fighter f1;
